@@ -1,0 +1,5 @@
+[bindings]
+
+[bindings.1]
+keypress = ",,hw"
+text = "hello world"
